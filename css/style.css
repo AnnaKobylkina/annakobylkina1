@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+.initial{
+    background-color: #1822B7;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
+.initial__img1{
+    margin: auto;
+    left: 0;
+    right: 0;
+    position: absolute;
+}
+.initial__img2{
+    margin: auto;
+    right: 0;
+    position: absolute;
+    top:38%;
+    
+}
